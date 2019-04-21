@@ -8,6 +8,5 @@
 	<author email="dev@escrow.com" href="https://phonegap.com">
 	   Escrow Team
 	</author>
-
-	<preference name="phonegap-version" value="cli-6.0.0" />
+    
 </widget>
