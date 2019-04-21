@@ -13,6 +13,10 @@ body {
 ::selection {
   background: #000;
   color: #fff; }
+  .gg{
+  padding: 8px 10%;
+  background-image: url('images/hi.jpg');
+}
 
 a {
   -webkit-transition: .3s all ease;
